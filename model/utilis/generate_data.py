@@ -1,9 +1,5 @@
 """
-preprocess_lichess.py
 Kompletny skrypt do przetwarzania PGN z Lichess do datasetu NNUE
-
-Użycie:
-    python preprocess_lichess.py
 
 Konfiguracja w sekcji __main__ na dole pliku
 """
