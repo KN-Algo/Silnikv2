@@ -3,7 +3,7 @@
 ## Przegląd
 
 **Typ Architektury:** HalfKP (Half King-Piece)  
-**Platforma docelowa:** Raspberry Pi 4 (8GB RAM)  
+**Platforma docelowa:** Raspberry Pi 5 (8GB RAM)  
 **Framework:** PyTorch  
 **Silnik inference:** ONNX Runtime (zoptymalizowany pod ARM)
 
