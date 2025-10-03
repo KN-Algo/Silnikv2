@@ -246,7 +246,7 @@ def process_pgn_file(pgn_path, output_path, max_games=None,
                 all_positions.extend(positions)
                 games_processed += 1
             except Exception as e:
-                print(f"\n⚠️  Błąd w partii {games_processed + games_skipped}: {e}")
+                print(f"\nBłąd w partii {games_processed + games_skipped}: {e}")
                 games_skipped += 1
             
             # Checkpoint
